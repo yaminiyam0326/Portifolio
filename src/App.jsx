@@ -2,9 +2,9 @@ import React from "react";
 import Navbar from "./assets/Components/Navbar";
 import Hero from "./assets/Components/Hero";
 import About from "./assets/Components/About";
-import Skills from "./assets/components/Skills";
-import Projects from "./assets/components/Projects";
-import Contact from "./assets/components/Contact";
+import Skills from "./assets/Components/Skills";
+import Projects from "./assets/Components/Projects";
+import Contact from "./assets/Components/Contact";
 
 
 function App() {
